@@ -1,0 +1,14 @@
+---
+general:
+  # General Information
+  name: "test"
+  author: "Sagar Mahajan"
+  approver: "sagar"
+  comments: "aaryan.reddy@gmail.com"
+  date: "N/A"
+  dar:
+    - chapter: Design 
+      content:
+        - folder: test
+          file: test
+---
